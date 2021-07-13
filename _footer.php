@@ -7,7 +7,7 @@
     <div id="footer-center">
       <div id="footer-brand">
         <a href="http://niwanetwork.org">
-          Nintendo Independent Wiki Alliance
+          Square Enix Independent Wiki Alliance
         </a>
       </div>
       <div id="footer-copyright">

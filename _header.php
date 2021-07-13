@@ -9,7 +9,7 @@ $dataHelper = new NiwaDataHelper();
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <title>NIWA - <?php if ($title!='') { echo $title; } else { echo 'Nintendo Independent Wiki Alliance'; } ?></title>
+  <title>SEIWA - <?php if ($title!='') { echo $title; } else { echo 'Square Enix Independent Wiki Alliance'; } ?></title>
   <link href="/style.css" rel="stylesheet" type="text/css" />
 
   <script>
@@ -27,8 +27,8 @@ $dataHelper = new NiwaDataHelper();
   <div id="container">
 
   <div id="header">
-    <a href="/" title="NIWA Network">
-      <img src="/images/logo.png" width="250px" alt="NIWA Network" />
+    <a href="/" title="SEIWA Network">
+      <img src="/images/logo.png" width="250px" alt="SEIWA Network" />
     </a>
   </div>
 

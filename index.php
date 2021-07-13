@@ -9,9 +9,7 @@ include('_header.php');
    <div class="carousel text-center">
       <?php
          $enwikis = (array) $dataHelper->getMemberWikis('en');
-         $dewikis = (array) $dataHelper->getMemberWikis('de');
-         $itwikis = (array) $dataHelper->getMemberWikis('it');
-         $wikis = array_merge($enwikis, $dewikis, $itwikis);
+         $wikis = array_merge($enwikis);
          shuffle($wikis);
          foreach ($wikis as $wiki) {
             echo "
@@ -25,64 +23,27 @@ include('_header.php');
       ?>
    </div>
 
-   <h1>Welcome to the Nintendo Independent Wiki Alliance</h1>
+  <h1>Welcome to the Square Enix Independent Wiki Alliance</h1>
 
-   <p>
-      We are a network of independent wikis working together since 2010 to bring fans quality coverage of all things Nintendo. Together with our affiliates, we collaborate and support one another in our mission. 
-   </p>
+  <p>SEIWA's main tenet is to always give its member wikis the freedom to decide how they will operate. SEIWA will never force any policy on a member wiki, and will always focus on community and material over dollars and cents. A member wiki and its material will belong to its community, not the SEIWA, and not anyone else.</p>
 
-   <p>
-      We are driven by our focus on our fans:
-      <ul>
-         <li><b>Fan communities should be run by the fans</b>, and not corporate entities that don't put the community first.</li>
-         <li><b>Fan communities should be run for the fans</b>, by people who will always think about how they can continue to enhance the enjoyment of everyone in the community.</li>
-         <li><b>Fan communities should be run together with the fans</b>, embracing a spirit of co-operation and camaraderie.</li>
-      </ul>
-   </p>
+  <p>Furthermore, SEIWA acts as a safe haven from the profit-oriented wiki farms that ignore their workers and restrict their freedom like a boa does its prey. Any wiki that meets the basic policies outlined on our "Rules" page will be free to apply for membership. SEIWA also acts to promote fellow independent wikis, encouraging traffic and editing across member wikis. Even these minor policies will not be forced on a wiki -- if it decides that it does not like them, that wiki is free to leave, without the alliance making a grab for its content.</p>
 
-   <div class="flex-container">
-      <div class="flex-section stats text-center white">
-         <h2>30+ members</h2>
-         covering Nintendo
-         <br/><br/>
-      </div>
-      <div class="flex-section stats text-center white">
-         <h2>240,000+ articles</h2>
-         across three languages
-         <br/><br/>
-      </div>
-      <div class="flex-section stats text-center white">
-         <h2>10+ affiliates</h2>
-         supporting our mission
-         <br/><br/>
-      </div>
-   </div>
+  <p>We, SEIWA, exist to provide an alternative to the oppressive rule of wiki-farms; a path that will never sacrifice the wiki pillars of freedom, cooperation, and quality for the chance at an extra buck.</p>
 
-   <p>
-      Learn more about us on our <a href="/about">about page</a>, and check out our <a href="/members">members</a> and <a href="/affiliates">affiliates</a>.
-   </p>
+  <p>
+    Learn more about us on our <a href="/about">about page</a>, and check out our <a href="/members">members</a> and <a href="/affiliates">affiliates</a>.
+  </p>
 
-   <h1>Stay engaged</h1>
+  <h1>Stay engaged</h1>
 
-   <p>
-      We have a public Discord server for Nintendo and wiki fans alike, as well as social media profiles to keep up-to-date with going-ons between our members.
-   </p>
+  <p>
+    We have a <a href="https://discord.gg/tAHWTS8">public Discord server</a> for Square Enix and wiki fans alike to keep up-to-date with going-ons between our members.
+  </p>
 
-   <div class="flex-container">
-      <div class="flex-section discord text-center white">
-         <a href="https://discord.gg/59Mq6qB">Join our Discord</a>
-      </div>
-      <div class="flex-section twitter text-center white">
-         <a href="https://twitter.com/niwanetwork">Follow on Twitter</a>
-      </div>
-      <div class="flex-section facebook text-center white">
-         <a href="https://www.facebook.com/NIWANetwork">Like on Facebook</a>
-      </div>
-   </div>
-
-   <p>
-      You can also engage with our <a href="/members">members</a> and <a href="/affiliates">affiliates</a> through their own Discord servers and social media.
-   </p>
+  <p>
+    You can also engage with our <a href="/members">members</a> and <a href="/affiliates">affiliates</a> through their own Discord servers and social media.
+  </p>
 
 </div>
 
