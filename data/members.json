@@ -23,15 +23,6 @@
       "interwiki": "dragonquest",
       "forums": "https://www.woodus.com/forums/forum/88-dragon-quest-wiki/"
     },
-    "finalfantasywiki": {
-      "title": "Final Fantasy Wiki",
-      "description": "The newest wiki focused on Square Enix's infamous Final Fantasy franchise!",
-      "logo": "/images/logos/finalfantasywiki.png",
-      "icon": "/images/icons/finalfantasywiki.png",
-      "url": "https://finalfantasy.com/wiki/$1",
-      "mainpage": "Main_Page",
-      "interwiki": "ffwiki"
-    },
     "khwiki": {
       "title": "The Kingdom Hearts Wiki",
       "description": "The premier encyclopedic database for the Kingdom Hearts series that anyone can edit! Now in 3D!",
