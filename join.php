@@ -6,21 +6,29 @@ include('_header.php');
 <div class="main">
     <h1>Join SEIWA</h1>
 
-    <p>Are you interested in your Wiki becoming a member of the Square Enix Independent Wiki Alliance? Check out these following guidelines to see if you should apply for membership:</p>
+    <p>Intrested in joining the Square Enix Independent Wiki Alliance? Check out these following guidelines to see if you should apply for membership:</p>
 
     <ol>
         
-    <li>Wiki trying to apply must be about a game or product created by or published by Squaresoft, Enix, Square Enix, Eidos, or Taito.</li>
-    <li>While you can ask for coding assistance from the other wikis, and obviously editing on multiple wikis is encouraged, each wiki is its own entity, and defines its own purpose. Other wikis will not be allowed to force a decision on a wiki, of any kind.</li>
-    <li>If the leadership of a partner wiki vacates, or otherwise allows excessive vandalism, the leadership of other wikis will be allowed to either enact protective measures, or remove the wiki as a partner.</li>
-    <li>Every wiki applying must have no more than 40% of its mainspace articles as stubs, at least 50 mainspace pages, at least 30 images being used in the mainspace, and at least 3 active editors. (still need to work on a number of "quality articles" it must have, or whether or not we've even doing that.)</li>
-    <li>It is advised that the wikis have a Manual of Style denouncing proper article format.</li>
-
+    <li>Wikis should be centered on a franchise that Square Enix has been involved in. This could include media (such as games or manga) developed by Square Enix, its past entities (Squaresoft, Enix), or its subsidiaries.</li>
+    <li>Wikis should have at least 100 articles, of which at least 25 should not be considered stubs.</li>
+    <li>Wikis must have some form of activity in the last 90 days (~3 months). This can include</li>
+        <ol>
+            <li>Edits to improve the quality of a page (templates, articles, project, etc.)</li>
+            <li>Creation of new pages (files, policies, subpages, categories, etc.)</li>
+            <li>Discussions</li>
+            <li>Template documentation</li>
+        </ol>
+    <li>Wikis should have policies in place to ensure quality content, prevent vandalism, etc. and an active staff to enforce them.</li>
+    <li>Wikis need to maintain independence in such a way that their community as a whole can decide its internal and external policies.</li>
+        <ol>
+            <li>This includes the ability to choose to shut itself down, change hosts, etc.</li>
+        </ol>
     </ol>
 
-    <p>Please note that simply following these suggestions does not guarantee membership - these are just a few basic guidelines to follow before you even apply. Just as well, if we see a wiki has great potential but is lacking in just a few small ways, we can always work something out. Good luck, and we hope to hear from you soon.</p>
+    <p>Once you apply, the community will discuss and vote internally to decide on membership.</p>
 
-    <p>Please note that these guidelines are subject to change without notice. If you are interested in joining or affiliating with NIWA, please <a href="/contact">contact us</a>.</p>
+    <p>Please note that these guidelines are subject to change without notice. If you are interested in joining or affiliating with SEIWA, please <a href="/contact">contact us</a>.</p>
 </div>
 
 <?php
