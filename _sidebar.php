@@ -2,7 +2,7 @@
   <div class="box" id="box-discord">
     <div class="title">Discord</div>
       <iframe
-        src="https://discord.com/widget?id=701089448125005835&theme=light"
+        src="https://discord.com/widget?id=701089448125005835&theme=dark"
         width="100%"
         height="300"
         style="min-width: 300px;"
