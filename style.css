@@ -438,9 +438,11 @@ a:visited {
   max-width: 150px;
   flex-shrink: 0;
   padding: 5px;
-  border-right: 1px #cecece solid;
   text-align: center;
   margin: 0 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .member .logo img {
   margin: 0 auto;
@@ -455,7 +457,6 @@ a:visited {
   flex-wrap: wrap;
   font-size: 0.875em;
   background: #e9e9e9;
-  border-bottom: 1px #cecece solid;
   border-radius: 0 5px 0 0;
   padding: 2px;
   margin-left: -5px;
