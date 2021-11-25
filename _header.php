@@ -28,7 +28,7 @@ $dataHelper = new NiwaDataHelper();
 
   <div id="header">
     <a href="/" title="SEIWA Network">
-      <img src="/images/logo.png" width="250px" alt="SEIWA Network" />
+      <img src="/images/logo.png" width="325px" alt="SEIWA Network" />
     </a>
   </div>
 
