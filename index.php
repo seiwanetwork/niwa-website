@@ -25,11 +25,13 @@ include('_header.php');
 
   <h1>Welcome to the Square Enix Independent Wiki Alliance</h1>
 
-  <p>SEIWA's main tenet is to always give its member wikis the freedom to decide how they will operate. SEIWA will never force any policy on a member wiki, and will always focus on community and material over dollars and cents. A member wiki and its material will belong to its community, not the SEIWA, and not anyone else.</p>
-
-  <p>Furthermore, SEIWA acts as a safe haven from the profit-oriented wiki farms that ignore their workers and restrict their freedom like a boa does its prey. Any wiki that meets the basic policies outlined on our "Rules" page will be free to apply for membership. SEIWA also acts to promote fellow independent wikis, encouraging traffic and editing across member wikis. Even these minor policies will not be forced on a wiki -- if it decides that it does not like them, that wiki is free to leave, without the alliance making a grab for its content.</p>
-
-  <p>We, SEIWA, exist to provide an alternative to the oppressive rule of wiki-farms; a path that will never sacrifice the wiki pillars of freedom, cooperation, and quality for the chance at an extra buck.</p>
+  <p>The Square Enix Indpendent Wiki Alliance, or SEIWA, is a network of independent wikis established in 2011 and focused on providing high-quality coverage of Square Enix and its content. We work together, along with our affiliates and others, to promote our values:
+   <ul>
+         <li>Providing the best-quality content on the various Square Enix video games and media.</li>
+         <li>Co-operating and supporting one another</li>
+         <li>Promoting and supporting independent wikis and their right to operate as they wish.</li>
+      </ul>
+   </p>
 
   <p>
     Learn more about us on our <a href="/about">about page</a>, and check out our <a href="/members">members</a> and <a href="/affiliates">affiliates</a>.
