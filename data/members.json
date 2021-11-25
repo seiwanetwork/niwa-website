@@ -25,7 +25,7 @@
     },
     "finalfantasywiki": {
       "title": "Final Fantasy Wiki",
-      "description": "The newest wiki focused on Square Enix's infamous Final Fantasy franchise!",
+      "description": "A new wiki focused on covering Square Enix's flagship franchise, the critically-acclaimed Final Fantasy series. The Final Fantasy Wiki was founded on January 12, 2020 as part of SEIWA and covers all things Final Fantasy and related franchises.",
       "logo": "/images/logos/finalfantasywiki.png",
       "icon": "/images/icons/finalfantasywiki.png",
       "url": "https://www.finalfantasywiki.com/wiki/$1",
@@ -33,8 +33,8 @@
       "interwiki": "ffwiki"
     },
     "khwiki": {
-      "title": "The Kingdom Hearts Wiki",
-      "description": "The premier encyclopedic database for the Kingdom Hearts series that anyone can edit! Now in 3D!",
+      "title": "Kingdom Hearts Wiki",
+      "description": "The Kingdom Hearts Wiki attempts to document all things related to the Kingdom Hearts series, from elements of storyline to gameplay. The site was originally founded on April 1, 2006 on Wikia and became independent on February 9, 2011. Since this time, the community of the KHWiki strives to be the most professional and comprehensive Kingdom Hearts resource in the world.",
       "logo": "/images/logos/khwiki.png",
       "icon": "/images/icons/khwiki.png",
       "url": "https://www.khwiki.com/$1",
@@ -48,7 +48,7 @@
     },
     "squareenixwiki": {
       "title": "Square Enix Wiki",
-      "description": "The up-and-coming wiki on all things related to Square Enix!",
+      "description": "The Square Enix Wiki was founded on February 8, 2012, and is an up-and-coming wiki project created by SEIWA. It focuses on covering all things Square Enix, from its video game series to its physical publications to its most notable employees and work as a company.",
       "logo": "/images/logos/squareenixwiki.png",
       "icon": "/images/icons/squareenixwiki.png",
       "url": "https://seiwanetwork.org/wiki/index.php?title=$1",
