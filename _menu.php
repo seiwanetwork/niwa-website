@@ -11,7 +11,6 @@
             <li><a href="/about">About</a></li>
             <li><a href="/members">Members</a></li>
             <li><a href="/affiliates">Affiliates</a></li>
-            <li><a href="/chat">Chat</a></li>
             <li><a href="/join">Join Us</a></li>
             <li><a href="/rarticle">Random Article</a></li>
         </ul>
