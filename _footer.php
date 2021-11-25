@@ -11,7 +11,7 @@
         </a>
       </div>
       <div id="footer-copyright">
-        &copy; 2010-<?php echo (date('Y')); ?>
+        &copy; 2011-<?php echo (date('Y')); ?>
       </div>
     </div>
     <div id="footer-right">
