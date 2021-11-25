@@ -5,15 +5,23 @@ include('_header.php');
 
 <div class="main">
 	<h1>About the Square Enix Independent Wiki Alliance</h1>
-  <p>It's an oft-told tale in every tavern and pub: a cadre of faceless overlords that entice workers with promises of support or wealth, then force their captured prey to submit to exploitative policies or degrading baubles. Eventually, though, a band of dissidents will speak up, and fight to allow freedom for the workers.</p>
+	<p><em>It's an oft-told tale in every tavern: a cadre of faceless overlords entice people with promises of support and success, then force their captured workers to submit to degrading baubles and exploitative practices. However, a band of dissidents will rise up and stand for the freedom of the workers.</em></p>
 
-  <p>Despite what it sounds like, this isn't the story to a role-playing game; it's the story of this organization's founding. The founders of this organization were all hosted under the same host, but were constantly forced to accept new features against their will, all in the name of getting more advertising dollars, or attracting those who only cared about the baubles, not the editing or material.</p>
+	<p>This isn't a fantasy story. This is the story of the Square Enix Independent Wiki Alliance, or SEIWA. Before its creation, wikis were being built on coporately-owned and run wikifarms. These platforms allowed for editors to create wikis for a variety of content for free. However, as time went by, policies would be created that would be forced upon the child wikis without discussion or feedback, largely for financial gain and often to the degredation of content.</p>
 
-  <p>The editors submitted to the changes, until the final straw: the cadre not only forced the use of a new skin that sacrificed the material for advertising space, but also removed what skin options the editors had previously had. When the editors complained, the words of the original ToC were twisted to forbid dissent. When the editors decided to leave, the cadre claimed that all of the material the editors had worked so hard to make belonged to the cadre alone, and that not even a new community would be allowed to change or remove it.</p>
+	<p>In June 2011, the Square Enix Independent Wiki Alliance was founded following the departure of the Kingdom Hearts Wiki from Wikia in January, with Chrono Wiki also forking that year and joining in November 2011. Dragon Quest Wiki joined that same month, becoming the third founding member of SEIWA. Since then, SEIWA has started two wikis: the Square Enix Wiki in February 2012 and the Final Fantasy Wiki in January 2020.</p>
+	
+	<h1>Our Mission</h1>
+	<p>SEIWA strives to build and nurture a supportive community of high-quality wikis focused on Square Enix and its publicaions. In the process, we seek to promote long-held values that we believe are the best approach for fostering these kinds of sites:
+	<ul>
+		<li><b>Quality</b>: Wikis and their communities should be built around a focus of providing the highest-quality coverage possible of their topic, not as part of a money-generating machine. They should be run by those who are interested in the wiki's content rather than its potential ad revenue.</li>
+		<li><b>Cooperation</b>: Wikis should be run together with other fans, building communities that work together both within the fandom and with other fandoms. They should be a source of community and support within their respective fandoms and within SEIWA.</li>
+		<li><b>Freedom</b>: Wikis should be run by the fans that build their content, and should be free to be taken in any direction their writers and editors choose. They should not have changes dictated onto them that the community does not like or approve of.</li>
+	</ul>
+	</p>
 
-  <p>So the editors left. They copied their material to a new server, one that they hosted themselves, and continued to provide quality content. To assist other wikis, to show them that the cadre's way was not the only way, they formed the Square Enix Independent Wiki Alliance.</p>
+	<p>We hope to help build a place that is both welcoming and supportive of quality and community-focused wikis, promoting each other and uniting others who agree with our beliefs while building the ultimate network of Square Enix content and communities. We hope you'll join us! You can check out our current members on the <a href="/members">membership page</a> or check out our requirements for <a href="/join">joining SEIWA</a>!
 
-  <p>It took almost a half-year to complete, but in June 2011, the SEIWA started up with the Kingdom Hearts Wiki as its first member, while its second member, Chronopedia, began performing its own transfer.</p>
 </div>
 
 <?php
