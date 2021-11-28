@@ -1,15 +1,6 @@
 <div class="sidebar">
   <div class="box" id="box-discord">
     <div class="title">Discord</div>
-      <iframe
-        src="https://discord.com/widget?id=701089448125005835&theme=dark"
-        width="100%"
-        height="300"
-        style="min-width: 300px;"
-        allowtransparency="true"
-        frameborder="0"
-        sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">
-      </iframe>
     <iframe 
             src="https://discord.com/widget?id=493490207010717716&theme=dark" 
             width="350" 
