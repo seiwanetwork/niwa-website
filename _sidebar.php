@@ -10,6 +10,15 @@
             sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">
     </iframe>
   </div>
+  <div class="box" id="box-twitter">
+    <div class="title">Latest Tweets</div>
+    <div class="post">
+      <a class="twitter-timeline" data-height="350" href="https://twitter.com/SEIWANetwork?ref_src=twsrc%5Etfw">
+        Tweets by SEIWANetwork
+      </a>
+      <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </div>
+  </div>
   <div class="box" id="box-facebook">
     <div class="title">Facebook</div>
     <iframe 
