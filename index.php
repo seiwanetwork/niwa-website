@@ -37,8 +37,10 @@ include('_header.php');
     Learn more about us on our <a href="/about">about page</a>, and check out our <a href="/members">members</a> and <a href="/affiliates">affiliates</a>.
   </p>
 
+ <h1>Stay engaged</h1>
+
   <p>
-      We have a public Discord server for Nintendo and wiki fans alike, as well as social media profiles to keep up-to-date with going-ons between our members. You can also follow us on 
+      We have a public Discord server for Square Enix and wiki fans alike, as well as social media profiles to keep up-to-date with going-ons between our members. You can also follow us on 
    </p>
 
    <div class="flex-container">
