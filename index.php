@@ -37,11 +37,21 @@ include('_header.php');
     Learn more about us on our <a href="/about">about page</a>, and check out our <a href="/members">members</a> and <a href="/affiliates">affiliates</a>.
   </p>
 
-  <h1>Stay engaged</h1>
-
   <p>
-    We have a <a href="https://discord.gg/tAHWTS8">public Discord server</a> for Square Enix and wiki fans alike to keep up-to-date with going-ons between our members.
-  </p>
+      We have a public Discord server for Nintendo and wiki fans alike, as well as social media profiles to keep up-to-date with going-ons between our members. You can also follow us on 
+   </p>
+
+   <div class="flex-container">
+      <div class="flex-section discord text-center white">
+         <a href="https://discord.gg/tAHWTS8">Join our Discord</a>
+      </div>
+      <div class="flex-section twitter text-center white">
+         <a href="https://twitter.com/SEIWANetwork">Follow on Twitter</a>
+      </div>
+      <div class="flex-section facebook text-center white">
+         <a href="https://www.facebook.com/seiwanetwork">Like on Facebook</a>
+      </div>
+   </div>
 
   <p>
     You can also engage with our <a href="/members">members</a> and <a href="/affiliates">affiliates</a> through their own Discord servers and social media.
