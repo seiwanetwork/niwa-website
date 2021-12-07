@@ -14,9 +14,9 @@
         &copy; 2011-<?php echo (date('Y')); ?>
       </div>
     </div>
-    <div id="footer-right">
+    <!--<div id="footer-right">
       <a href="/policy">Policy</a>
-    </div>
+    </div>-->
 </div>
 
 </div>
