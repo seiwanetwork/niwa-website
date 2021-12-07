@@ -2,7 +2,7 @@
 
 <div id="footer">
     <div id="footer-left">
-      <a href="/legal/">Legal</a>
+      <a href="/legal">Legal</a>
     </div>
     <div id="footer-center">
       <div id="footer-brand">
@@ -15,7 +15,7 @@
       </div>
     </div>
     <div id="footer-right">
-      <a href="/policy/">Policy</a>
+      <a href="/policy">Policy</a>
     </div>
 </div>
 
