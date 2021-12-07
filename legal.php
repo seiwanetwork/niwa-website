@@ -6,9 +6,9 @@ include('_header.php');
 <div class="main">
   <h1>Legal</h1>
 
-  <p>All original content found throughout this website is copyright &copy; Square Enix Independent Wiki Alliance (NIWA) 2010-<?php echo (date(Y)); ?>.</p>
-  <p>SEIWA is in no way associated with Square Enix. In places where copyrighted Square Enix content is presented we do so with fair terms of use, whereby it is not used commercially for gain and where it does not impede Nintendo's right to sell the depicted material.</p>
-  <p>Furthermore the member wikis of SEIWA are not bound by a single license. Therefore please refer to the individual wikis for their licensing and content duplication policies.</p>
+  <p>All original content found throughout this website is copyright &copy; Square Enix Independent Wiki Alliance (SEIWA) 2011-<?php echo (date(Y)); ?>.</p>
+  <p>SEIWA is in no way associated with Square Enix or its subsidiary companies. In places where copyrighted Square Enix content is presented we do so with fair terms of use, whereby it is not used commercially for gain and where it does not impede Square Enix's right to sell the depicted material.</p>
+  <p>Member wikis of SEIWA are not bound by a single license. Please refer to the individual wikis for licensing, copyright, and content duplication policies.</p>
 </div>
 
 <?php
