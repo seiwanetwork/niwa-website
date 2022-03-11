@@ -128,6 +128,9 @@ class NiwaDataHelper
 		if (isset($member->discord)) {
 			$links .= $this->generateMemberLink($member->discord, "Discord");
 		};
+		if (isset($member->guilded)) {
+			$links .= $this->generateMemberLink($member->guilded, "Guilded");
+		};
 		if (isset($member->twitter)) {
 			$links .= $this->generateMemberLink($member->twitter, "Twitter");
 		};
