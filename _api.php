@@ -118,7 +118,7 @@ class NiwaDataHelper
 
 		if (isset($member->site)) {
 			$links .= $this->generateMemberLink($member->site, $member->siteName);
-		};
+		}; /*
 		if (isset($member->forums)) {
 			$links .= $this->generateMemberLink($member->forums, "Forums");
 		};
@@ -139,7 +139,7 @@ class NiwaDataHelper
 		};
 		if (isset($member->facebook)) {
 			$links .= $this->generateMemberLink($member->facebook, "Facebook");
-		};
+		};*/
 
 		return $links;
 	}
