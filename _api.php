@@ -167,8 +167,29 @@ class NiwaDataHelper
 	 */
 	public function generateSocialMediaLinks($member)
 	{
+		if (isset($member->forums)) {
+			$socials .= $this->generateMemberSocialIcon($member->forums, "Forums", "/images/social/Forums.png");
+		};
+		if (isset($member->chat)) {
+			$socials .= $this->generateMemberSocialIcon($member->chat, "Chat", "/images/social/Chat.png");
+		};
+		if (isset($member->discord)) {
+			$socials .= $this->generateMemberSocialIcon($member->discord, "Discord", "/images/social/Discord.png");
+		};
+		if (isset($member->guilded)) {
+			$socials .= $this->generateMemberSocialIcon($member->guilded, "Guilded", "/images/social/Guilded.png");
+		};
+		if (isset($member->twitter)) {
+			$socials .= $this->generateMemberSocialIcon($member->twitter, "Twitter", "/images/social/Twitter.png");
+		};
+		if (isset($member->twitch)) {
+			$socials .= $this->generateMemberSocialIcon($member->twitch, "Twitch", "/images/social/Twitch.png");
+		};
 		if (isset($member->facebook)) {
-			$socials .= $this->generateMemberSocialIcon($member->facebook, "Facebook", "/images/facebook.png");
+			$socials .= $this->generateMemberSocialIcon($member->facebook, "Facebook", "/images/social/Facebook.png");
+		};
+		if (isset($member->tumblr)) {
+			$socials .= $this->generateMemberSocialIcon($member->tumblr, "Tumblr", "/images/social/Tumblr.png");
 		};
 
 		return $socials;
