@@ -80,6 +80,17 @@
     "forums": "https://www.pikminfanon.com/wiki/Forum:Index",
     "discord": "https://discord.gg/msMKc3G"
   },
+  "speedrunwiki": {
+    "title": "Speedrunwiki",
+    "description": "Founded on May 5, 2006, Speedrun Wiki has aimed to be a collaboratively edited, free encyclopedia for all accurate and useful resources for speedrunning.",
+    "logo": "/images/logos/speedrunwiki.png",
+    "icon": "/images/icons/speedrunwiki.png",
+    "url": "https://www.speedrunwiki.com/$1",
+    "mainpage": "Main_Page",
+    "interwiki": "speedrunwiki",
+    "guilded": "https://www.guilded.gg/i/EmzVKl12",
+    "discord": "https://discord.gg/XCazaEVNzT"
+  },
   "starfywiki": {
     "title": "Starfy Wiki",
     "description": "Founded on May 30, 2009, Starfy Wiki's one goal is to become the best source on Nintendo's elusive game series The Legendary Starfy. After gaining independence in 2011 with the help of Tappy and the wiki's original administrative team, the wiki still hopes to achieve its goal and be the best source of Starfy info for all present and future fans.",
