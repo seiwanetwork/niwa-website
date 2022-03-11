@@ -153,7 +153,7 @@ class NiwaDataHelper
 	 */
 	protected function generateMemberSocialIcon($url, $social, $imgsrc)
 	{
-		return "<a href='{$url}'><img alt='{$social}' src='{$imgsrc}' decoding='async' width='35' height='35'></a>";
+		return "<a href='{$url}'><img alt='{$social}' src='{$imgsrc}' decoding='async' width='20' height='20'></a>";
 	}
 	
 	/**
