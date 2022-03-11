@@ -168,7 +168,7 @@ class NiwaDataHelper
 	public function generateSocialMediaLinks($member)
 	{
 		if (isset($member->facebook)) {
-			$socials .= $this->generateMemberLink($member->facebook, "Facebook", "/images/facebook.png");
+			$socials .= $this->generateMemberSocialIcon($member->facebook, "Facebook", "/images/facebook.png");
 		};
 
 		return $socials;
