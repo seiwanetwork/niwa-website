@@ -25,6 +25,9 @@ include('_header.php');
                     <div class='links'>
                         {$dataHelper->generateMemberLinks($affiliate)}
                     </div>
+                    <div class='socials'>
+                        {$dataHelper->generateSocialMediaLinks($wiki)}
+                    </div>
                     <p>{$affiliate->description}</p>
                 </div>
             </div>
