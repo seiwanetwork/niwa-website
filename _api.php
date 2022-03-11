@@ -143,4 +143,36 @@ class NiwaDataHelper
 
 		return $links;
 	}
+	
+	
+	
+	/**
+	 * Generates a social media icon-based link for the member or affiliate
+	 * 
+	 * @param string $url The anchor tag href
+	 * @param string $imgsrc The image source for the link
+	 * @return string
+	 */
+	protected function generateMemberSocialIcon($url, $imgsrc)
+	{
+		return "<a href='{$url}'><img alt="{$social}" src="{$imgsrc}" decoding="async" width="35" height="35"></a>";
+	}
+	
+	/**
+	 * Generates the html string for social media links with error checking for wikis that do not have
+	 * one of the options.
+	 *
+	 * Requires a individual wiki array from the api.
+	 * 
+	 * @param object $member
+	 * @return string $socials
+	 */
+	public function generateSocialMediaLinks($member)
+	{
+		if (isset($member->facebook)) {
+			$links .= $this->generateMemberLink($member->facebook, "/images/facebook.png");
+		};
+
+		return $socials;
+	}
 }
