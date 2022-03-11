@@ -153,7 +153,7 @@ class NiwaDataHelper
 	 * @param string $imgsrc The image source for the link
 	 * @return string
 	 */
-	protected function generateMemberSocialIcon($url, $imgsrc)
+	protected function generateMemberSocialIcon($url, $social, $imgsrc)
 	{
 		return "<a href='{$url}'><img alt="{$social}" src="{$imgsrc}" decoding="async" width="35" height="35"></a>";
 	}
@@ -170,7 +170,7 @@ class NiwaDataHelper
 	public function generateSocialMediaLinks($member)
 	{
 		if (isset($member->facebook)) {
-			$links .= $this->generateMemberLink($member->facebook, "/images/facebook.png");
+			$links .= $this->generateMemberLink($member->facebook, "Facebook", "/images/facebook.png");
 		};
 
 		return $socials;
