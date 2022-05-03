@@ -40,7 +40,7 @@ include('_header.php');
  <h1>Stay engaged</h1>
 
   <p>
-      We have a public Discord server for Square Enix and wiki fans alike, as well as social media profiles to keep up-to-date with going-ons between our members. You can also follow us on 
+      We have a public Discord server for Square Enix and wiki fans alike, as well as social media profiles to keep up-to-date with going-ons between our members. 
    </p>
 
    <div class="flex-container">
