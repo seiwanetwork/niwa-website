@@ -153,7 +153,7 @@ class NiwaDataHelper
 	 */
 	protected function generateMemberSocialIcon($url, $social, $socialicon)
 	{
-		return "<a class='social-media-icon-link' href='{$url}' title='{$social}'><i class="fa-brands fa-{$socialicon}"></i></a>";
+		return "<a class='social-media-icon-link' href='{$url}' title='{$social}'><i class='{$socialicon}'></i></a>";
 	}
 	
 	/**
@@ -168,28 +168,28 @@ class NiwaDataHelper
 	public function generateSocialMediaLinks($member)
 	{
 		if (isset($member->forums)) {
-			$socials .= $this->generateMemberSocialIcon($member->forums, "Forums", "message-pen");
+			$socials .= $this->generateMemberSocialIcon($member->forums, "Forums", "fa-solid fa-message-pen");
 		};
 		if (isset($member->chat)) {
-			$socials .= $this->generateMemberSocialIcon($member->chat, "Chat", "comments");
+			$socials .= $this->generateMemberSocialIcon($member->chat, "Chat", "fa-solid fa-comments");
 		};
 		if (isset($member->discord)) {
-			$socials .= $this->generateMemberSocialIcon($member->discord, "Discord", "discord");
+			$socials .= $this->generateMemberSocialIcon($member->discord, "Discord", "fa-brands fa-discord");
 		};
 		if (isset($member->guilded)) {
-			$socials .= $this->generateMemberSocialIcon($member->guilded, "Guilded", "guilded");
+			$socials .= $this->generateMemberSocialIcon($member->guilded, "Guilded", "fa-brands fa-guilded");
 		};
 		if (isset($member->twitter)) {
-			$socials .= $this->generateMemberSocialIcon($member->twitter, "Twitter", "twitter");
+			$socials .= $this->generateMemberSocialIcon($member->twitter, "Twitter", "fa-brands fa-twitter");
 		};
 		if (isset($member->twitch)) {
-			$socials .= $this->generateMemberSocialIcon($member->twitch, "Twitch", "twitch");
+			$socials .= $this->generateMemberSocialIcon($member->twitch, "Twitch", "fa-brands fa-twitch");
 		};
 		if (isset($member->facebook)) {
-			$socials .= $this->generateMemberSocialIcon($member->facebook, "Facebook", "facebook");
+			$socials .= $this->generateMemberSocialIcon($member->facebook, "Facebook", "fa-brands fa-facebook");
 		};
 		if (isset($member->tumblr)) {
-			$socials .= $this->generateMemberSocialIcon($member->tumblr, "Tumblr", "tumblr");
+			$socials .= $this->generateMemberSocialIcon($member->tumblr, "Tumblr", "fa-brands fa-tumblr");
 		};
 
 		return $socials;
