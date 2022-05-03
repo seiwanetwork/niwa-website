@@ -12,6 +12,7 @@ $dataHelper = new NiwaDataHelper();
   <title>SEIWA - <?php if ($title!='') { echo $title; } else { echo 'Square Enix Independent Wiki Alliance'; } ?></title>
   <link href="/style.css" rel="stylesheet" type="text/css" />
   
+  <!-- Favicons and SEO images -->
   <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
   <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
   <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
@@ -29,6 +30,9 @@ $dataHelper = new NiwaDataHelper();
   <meta name="msapplication-TileColor" content="#ffffff">
   <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
   <meta name="theme-color" content="#ffffff">
+  
+  <!-- Font Awesome -->
+  <script src="https://kit.fontawesome.com/8eb143761c.js" crossorigin="anonymous"></script>
   
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-209046300-1"></script>
