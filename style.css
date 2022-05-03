@@ -495,11 +495,12 @@ a:visited {
   margin: 0 .5em 0 0;
 }
 
-.social-media-icon-link a i{
+.social-media-icon-link a{
   color: #c80000;
+  margin-right: 0.3em
 }
 
-.social-media-icon-link a:hover i{
+.social-media-icon-link a:hover{
   color: #d76565;
 }
 
