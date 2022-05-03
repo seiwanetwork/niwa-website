@@ -30,7 +30,9 @@
       "icon": "/images/icons/finalfantasywiki.png",
       "url": "https://www.finalfantasywiki.com/wiki/$1",
       "mainpage": "Main_Page",
-      "interwiki": "ffwiki"
+      "interwiki": "ffwiki",
+      "twitter": "https://twitter.com/theFFWiki",
+      "discord": "https://discord.gg/PBDCHYq"
     },
     "khwiki": {
       "title": "Kingdom Hearts Wiki",
