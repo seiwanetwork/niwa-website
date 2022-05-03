@@ -67,7 +67,10 @@
     "icon": "/images/icons/niwa.png",
     "url": "http://niwanetwork.org/",
     "mainpage": "Main_Page",
-    "interwiki": "nwiki"
+    "interwiki": "nwiki",
+    "twitter": "https://twitter.com/NIWANetwork",
+    "facebook": "https://facebook.com/NIWANetwork",
+    "discord": "https://discord.gg/59Mq6qB"
   },
   "pikifanon": {
     "title": "Pikmin Fanon",
