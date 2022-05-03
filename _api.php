@@ -168,7 +168,7 @@ class NiwaDataHelper
 	public function generateSocialMediaLinks($member)
 	{
 		if (isset($member->forums)) {
-			$socials .= $this->generateMemberSocialIcon($member->forums, "Forums", "fa-solid fa-message-pen");
+			$socials .= $this->generateMemberSocialIcon($member->forums, "Forums", "fa-solid fa-message");
 		};
 		if (isset($member->chat)) {
 			$socials .= $this->generateMemberSocialIcon($member->chat, "Chat", "fa-solid fa-comments");
