@@ -1,5 +1,5 @@
 {
-  "fewiki": {
+  "falloutwiki": {
     "title": "Fallout Wiki",
     "description": "The Independent Fallout Wiki is a community dedicated to maintaining a high-quality, comprehensive, and accessible encyclopedia about all aspects of the Fallout series. Founded on April 8, 2022 and launching publicly on December 31, 2022, the site is home to a community of enthusiastic fans.",
     "logo": "/images/logos/falloutwiki.png",
@@ -38,7 +38,7 @@
     "facebook": "https://facebook.com/MuteCity.org",
     "discord": "https://discord.gg/pYghWh3"
   },
-  "fzerowiki": {
+  "gwn": {
     "title": "Gaming Wiki Network",
     "description": "The Gaming Wiki Network, or GWN for short, is an online collection of independently-hosted video game wikis. Founded on October 15, 2020, the Gaming Wiki Network now has 14 members and 5 affiliate wikis.",
     "logo": "/images/logos/gamingwikinetwork.png",
