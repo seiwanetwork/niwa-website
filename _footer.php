@@ -2,7 +2,7 @@
 
 <div id="footer">
     <div id="footer-left">
-      <a href="/legal/">Legal</a>
+      <a href="/legal">Legal</a>
     </div>
     <div id="footer-center">
       <div id="footer-brand">
@@ -11,12 +11,12 @@
         </a>
       </div>
       <div id="footer-copyright">
-        &copy; 2010-<?php echo (date('Y')); ?>
+        &copy; 2011-<?php echo (date('Y')); ?>
       </div>
     </div>
-    <div id="footer-right">
-      <a href="/policy/">Policy</a>
-    </div>
+    <!--<div id="footer-right">
+      <a href="/policy">Policy</a>
+    </div>-->
 </div>
 
 </div>

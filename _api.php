@@ -118,7 +118,7 @@ class NiwaDataHelper
 
 		if (isset($member->site)) {
 			$links .= $this->generateMemberLink($member->site, $member->siteName);
-		};
+		}; /*
 		if (isset($member->forums)) {
 			$links .= $this->generateMemberLink($member->forums, "Forums");
 		};
@@ -128,6 +128,9 @@ class NiwaDataHelper
 		if (isset($member->discord)) {
 			$links .= $this->generateMemberLink($member->discord, "Discord");
 		};
+		if (isset($member->guilded)) {
+			$links .= $this->generateMemberLink($member->guilded, "Guilded");
+		};
 		if (isset($member->twitter)) {
 			$links .= $this->generateMemberLink($member->twitter, "Twitter");
 		};
@@ -136,8 +139,60 @@ class NiwaDataHelper
 		};
 		if (isset($member->facebook)) {
 			$links .= $this->generateMemberLink($member->facebook, "Facebook");
-		};
+		};*/
 
 		return $links;
 	}
+	
+	/**
+	 * Generates a social media icon-based link for the member or affiliate
+	 * 
+	 * @param string $url The anchor tag href
+	 * @param string $imgsrc The image source for the link
+	 * @return string
+	 */
+	protected function generateMemberSocialIcon($url, $social, $socialicon)
+	{
+		return "<a class='social-media-icon-link' href='{$url}' title='{$social}' target='_blank'><i class='{$socialicon}'></i></a>";
+	}
+	
+	/**
+	 * Generates the html string for social media links with error checking for wikis that do not have
+	 * one of the options.
+	 *
+	 * Requires a individual wiki array from the api.
+	 * 
+	 * @param object $member
+	 * @return string $socials
+	 */
+	public function generateSocialMediaLinks($member)
+	{
+		if (isset($member->forums)) {
+			$socials .= $this->generateMemberSocialIcon($member->forums, "Forums", "fa-solid fa-message");
+		};
+		if (isset($member->chat)) {
+			$socials .= $this->generateMemberSocialIcon($member->chat, "Chat", "fa-solid fa-comments");
+		};
+		if (isset($member->discord)) {
+			$socials .= $this->generateMemberSocialIcon($member->discord, "Discord", "fa-brands fa-discord");
+		};
+		if (isset($member->guilded)) {
+			$socials .= $this->generateMemberSocialIcon($member->guilded, "Guilded", "fa-brands fa-guilded");
+		};
+		if (isset($member->twitter)) {
+			$socials .= $this->generateMemberSocialIcon($member->twitter, "Twitter", "fa-brands fa-twitter");
+		};
+		if (isset($member->twitch)) {
+			$socials .= $this->generateMemberSocialIcon($member->twitch, "Twitch", "fa-brands fa-twitch");
+		};
+		if (isset($member->facebook)) {
+			$socials .= $this->generateMemberSocialIcon($member->facebook, "Facebook", "fa-brands fa-facebook");
+		};
+		if (isset($member->tumblr)) {
+			$socials .= $this->generateMemberSocialIcon($member->tumblr, "Tumblr", "fa-brands fa-tumblr");
+		};
+
+		return $socials;
+	}
+	
 }
