@@ -1,5 +1,17 @@
 {
   "fewiki": {
+    "title": "Fallout Wiki",
+    "description": "The Independent Fallout Wiki is a community dedicated to maintaining a high-quality, comprehensive, and accessible encyclopedia about all aspects of the Fallout series. Founded on April 8, 2022 and launching publicly on December 31, 2022, the site is home to a community of enthusiastic fans.",
+    "logo": "/images/logos/falloutwiki.png",
+    "icon": "/images/icons/falloutwiki.png",
+    "url": "https://fallout.wiki/wiki/$1",
+    "mainpage": "Main_Page",
+    "interwiki": "fallout",
+    "chat": "https://fallout.wiki/wiki/Special:Chat",
+    "twitter": "https://twitter.com/thefalloutwiki",
+    "discord": "https://discord.gg/falloutwiki"
+  },
+  "fewiki": {
     "title": "Fire Emblem Wiki",
     "description": "Growing since August 26, 2010, Fire Emblem Wiki is a relatively new project whose goal is to cover all information pertaining to the Fire Emblem series. Although it is still small, it aspires to become the most complete and accurate independent source of information on this series.",
     "logo": "/images/logos/fireemblemwiki.png",
@@ -25,6 +37,18 @@
     "twitter": "https://twitter.com/MuteCity_org",
     "facebook": "https://facebook.com/MuteCity.org",
     "discord": "https://discord.gg/pYghWh3"
+  },
+  "fzerowiki": {
+    "title": "Gaming Wiki Network",
+    "description": "The Gaming Wiki Network, or GWN for short, is an online collection of independently-hosted video game wikis. Founded on October 15, 2020, the Gaming Wiki Network now has 14 members and 5 affiliate wikis.",
+    "logo": "/images/logos/gamingwikinetwork.png",
+    "icon": "/images/icons/gamingwikinetwork.png",
+    "url": "https://gamingwikinetwork.org/$1",
+    "mainpage": " ",
+    "interwiki": "gwn",
+    "twitter": "https://twitter.com/GamingWikiNet",
+    "facebook": "https://facebook.com/GamingWikiNetwork",
+    "discord": "https://discord.gg/pCfH7uk9jh"
   },
   "gsuwiki": {
     "title": "Golden Sun Universe",
