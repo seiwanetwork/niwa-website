@@ -9,9 +9,7 @@ include('_header.php');
    <div class="carousel text-center">
       <?php
          $enwikis = (array) $dataHelper->getMemberWikis('en');
-         $dewikis = (array) $dataHelper->getMemberWikis('de');
-         $itwikis = (array) $dataHelper->getMemberWikis('it');
-         $wikis = array_merge($enwikis, $dewikis, $itwikis);
+         $wikis = array_merge($enwikis);
          shuffle($wikis);
          foreach ($wikis as $wiki) {
             echo "
@@ -25,64 +23,41 @@ include('_header.php');
       ?>
    </div>
 
-   <h1>Welcome to the Nintendo Independent Wiki Alliance</h1>
+  <h1>Welcome to the Square Enix Independent Wiki Alliance</h1>
 
-   <p>
-      We are a network of independent wikis working together since 2010 to bring fans quality coverage of all things Nintendo. Together with our affiliates, we collaborate and support one another in our mission. 
-   </p>
-
-   <p>
-      We are driven by our focus on our fans:
-      <ul>
-         <li><b>Fan communities should be run by the fans</b>, and not corporate entities that don't put the community first.</li>
-         <li><b>Fan communities should be run for the fans</b>, by people who will always think about how they can continue to enhance the enjoyment of everyone in the community.</li>
-         <li><b>Fan communities should be run together with the fans</b>, embracing a spirit of co-operation and camaraderie.</li>
+  <p>The Square Enix Indpendent Wiki Alliance, or SEIWA, is a network of independent wikis established in 2011 and focused on providing high-quality coverage of Square Enix and its content. We work together, along with our affiliates and others, to promote our values:
+   <ul>
+         <li>Providing the best-quality content on the various Square Enix video games and media.</li>
+         <li>Co-operating and supporting one another</li>
+         <li>Promoting and supporting independent wikis and their right to operate as they wish.</li>
       </ul>
    </p>
 
-   <div class="flex-container">
-      <div class="flex-section stats text-center white">
-         <h2>30+ members</h2>
-         covering Nintendo
-         <br/><br/>
-      </div>
-      <div class="flex-section stats text-center white">
-         <h2>240,000+ articles</h2>
-         across three languages
-         <br/><br/>
-      </div>
-      <div class="flex-section stats text-center white">
-         <h2>10+ affiliates</h2>
-         supporting our mission
-         <br/><br/>
-      </div>
-   </div>
+  <p>
+    Learn more about us on our <a href="/about">about page</a>, and check out our <a href="/members">members</a> and <a href="/affiliates">affiliates</a>.
+  </p>
 
-   <p>
-      Learn more about us on our <a href="/about">about page</a>, and check out our <a href="/members">members</a> and <a href="/affiliates">affiliates</a>.
-   </p>
+ <h1>Stay engaged</h1>
 
-   <h1>Stay engaged</h1>
-
-   <p>
-      We have a public Discord server for Nintendo and wiki fans alike, as well as social media profiles to keep up-to-date with going-ons between our members.
+  <p>
+      We have a public Discord server for Square Enix and wiki fans alike, as well as social media profiles to keep up-to-date with going-ons between our members. 
    </p>
 
    <div class="flex-container">
       <div class="flex-section discord text-center white">
-         <a href="https://discord.gg/59Mq6qB">Join our Discord</a>
+         <a href="https://discord.gg/tAHWTS8">Join our Discord</a>
       </div>
       <div class="flex-section twitter text-center white">
-         <a href="https://twitter.com/niwanetwork">Follow on Twitter</a>
+         <a href="https://twitter.com/SEIWANetwork">Follow on Twitter</a>
       </div>
       <div class="flex-section facebook text-center white">
-         <a href="https://www.facebook.com/NIWANetwork">Like on Facebook</a>
+         <a href="https://www.facebook.com/seiwanetwork">Like on Facebook</a>
       </div>
    </div>
 
-   <p>
-      You can also engage with our <a href="/members">members</a> and <a href="/affiliates">affiliates</a> through their own Discord servers and social media.
-   </p>
+  <p>
+    You can also engage with our <a href="/members">members</a> and <a href="/affiliates">affiliates</a> through their own Discord servers and social media.
+  </p>
 
 </div>
 

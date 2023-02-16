@@ -1,82 +1,130 @@
 {
-    "bulbagarden": {
-        "title": "Bulbagarden",
-        "description": "The ultimate Pokémon portal featuring the latest news, forums, community-driven Pokémon encyclopedia and much more.",
-        "logo": "/images/logos/bulbagarden.png",
-        "url": "https://bulbagarden.net/",
-        "forums": "https://forums.bulbagarden.net/index.php",
-        "twitter": "https://twitter.com/Bulbagarden",
-        "facebook": "https://www.facebook.com/Bulbagarden",
-        "discord": "https://discord.gg/bulbagarden"
-    },
-    "doomwiki": {
-        "title": "Doom Wiki",
-        "description": "The Doom Wiki is an extensive community effort to document everything related to id Software's masterpiece games Doom and Doom II, other games based on the Doom engine, Doom 3, Doom (2016), Doom Eternal, and more.",
-        "logo": "/images/logos/doomwiki.png",
-        "url": "http://doomwiki.org/wiki/Entryway",
-        "twitter": "https://twitter.com/doomwiki"
-    },
-    "halopedia": {
-        "title": "Halopedia",
-        "description": "The Halo encyclopedia and definitive source for Halo information that anyone can edit.",
-        "logo": "/images/logos/halopedia.png",
-        "url": "https://www.halopedia.org/",
-        "facebook": "https://www.facebook.com/HalopediaWiki",
-        "twitter": "https://twitter.com/Halopedia",
-        "discord": "https://discord.gg/W3HK45M"
-    },
-    "jojowiki": {
-        "title": "JoJo's Bizarre Encyclopedia",
-        "description": "JoJo's Bizarre Encyclopedia is a wiki dedicated to JoJo's Bizarre Adventure written and illustrated by Hirohiko Araki.",
-        "logo": "/images/logos/jojo.png",
-        "url": "https://jojowiki.com/JoJo_Wiki",
-        "forums": "https://jojowiki.com/Special:WikiForum",
-        "twitter": "https://twitter.com/jojo_wiki",
-        "discord": "https://discord.gg/9jesgZvgbt"
-    },
-    "khwiki": {
-        "title": "Kingdom Hearts Wiki",
-        "description": "The Kingdom Hearts Wiki is a comprehensive wiki and encyclopedia dedicated to the Kingdom Hearts video game series from Square Enix.",
-        "logo": "/images/logos/khwiki.png",
-        "url": "https://www.khwiki.com",
-        "facebook": "https://www.facebook.com/khwikinet",
-        "chat": "https://www.khwiki.com/KHWiki:Chat",
-        "twitter": "https://twitter.com/KHWiki",
-        "discord": "https://discord.gg/bavMzKu"
-    },
-    "seiwanetwork": {
-        "title": "SEIWA",
-        "description": "The Square Enix Wiki Independent Alliance, or SEIWA for short, is a group of Wiki's centered around Square Enix's many franchises.",
-        "logo": "/images/logos/seiwa.png",
-        "url": "https://seiwanetwork.org/"
-    },
-    "wikifang": {
-        "title": "Wikifang",
-        "description": "Wikifang is an independent wiki on the chain of Smilesoft games, namely the Keitai Denjuu Telefang series, the GachaSta! Dino Device series, and Network Adventure Bugsite.",
-        "logo": "/images/logos/wikifang.png",
-        "url": "https://wiki.telefang.net/Wikifang"
-    },
-    "wikimon": {
-        "title": "Wikimon",
-        "description": "The free Digimon online encyclopedia that anyone can read and help edit. Wikimon is the best resource for Digimon info since December 2005—over fifteen years of pure Digimon goodness!",
-        "logo": "/images/logos/wikimon.png",
-        "url": "http://wikimon.net/",
-        "facebook": "http://www.facebook.com/digiwikimon",
-        "twitter": "http://twitter.com/Wikimon_news"
-    },
-    "simpsonswiki": {
-        "title": "Wikisimpsons",
-        "description": "Wikisimpsons is an encyclopedic wiki that contains information regarding the The Simpsons episodes, comic books and other media, including characters, locations and more.",
-        "logo": "/images/logos/wikisimpsons.png",
-        "url": "https://simpsonswiki.com/wiki/Main_Page",
-        "facebook": "http://www.facebook.com/wikisimpsons",
-        "twitter": "http://twitter.com/simpsonswiki",
-        "discord": "https://discord.gg/GyneDH6"
-    },
-    "zeldachaos": {
-        "title": "Zelda Chaos",
-        "description": "Zelda Chaos is the top resource for all things exploitable in Zelda.",
-        "logo": "/images/logos/zeldachaos.png",
-        "url": "https://jaytheham.com/zcw/Main_Page"
-    }
+  "fewiki": {
+    "title": "Fire Emblem Wiki",
+    "description": "Growing since August 26, 2010, Fire Emblem Wiki is a relatively new project whose goal is to cover all information pertaining to the Fire Emblem series. Although it is still small, it aspires to become the most complete and accurate independent source of information on this series.",
+    "logo": "/images/logos/fireemblemwiki.png",
+    "icon": "/images/icons/fireemblemwiki.png",
+    "url": "https://fireemblemwiki.org/wiki/$1",
+    "mainpage": "Main_Page",
+    "interwiki": "fireemblem",
+    "forums": "http://www.niwanetwork.org/forums/index.php?board=39.0",
+    "twitter": "https://twitter.com/FireEmblemWiki",
+    "facebook": "https://www.facebook.com/fireemblemwiki/",
+    "discord": "https://discord.gg/FzRd5P4nyQ"
+  },
+  "fzerowiki": {
+    "title": "F-Zero Wiki",
+    "description": "Founded on Wikia in November 2007, F-Zero Wiki became independent with NIWA's help in 2011. F-Zero Wiki is quickly growing into the Internet's definitive source for the world of 2200 km/h+, from pilots to machines, and is the founding part of MuteCity.org, the web's first major F-Zero community.",
+    "logo": "/images/logos/fzerowiki.png",
+    "icon": "/images/icons/fzerowiki.png",
+    "url": "https://mutecity.org/wiki/$1",
+    "mainpage": "F-Zero_Wiki",
+    "interwiki": "fzerowiki",
+    "forums": "https://mutecity.org/forums/",
+    "chat": "https://mutecity.org/wiki/Special:WebChat",
+    "twitter": "https://twitter.com/MuteCity_org",
+    "facebook": "https://facebook.com/MuteCity.org",
+    "discord": "https://discord.gg/pYghWh3"
+  },
+  "gsuwiki": {
+    "title": "Golden Sun Universe",
+    "description": "Originally founded on Wikia in late 2006, Golden Sun Universe has always worked hard to meet one particular goal: to be the single most comprehensive yet accessible resource on the Internet for Nintendo's RPG series Golden Sun. It became an independent wiki four years later. Covering characters and plot, documenting all aspects of the gameplay, featuring walkthroughs both thorough and bare-bones, and packed with all manner of odd and fascinating minutiae, Golden Sun Universe leaves no stone unturned!",
+    "logo": "/images/logos/goldensununiverse.png",
+    "icon": "/images/icons/goldensununiverse.png",
+    "url": "https://www.goldensunwiki.net/wiki/$1",
+    "mainpage": "Main_Page",
+    "interwiki": "goldensun"
+  },
+  "icaruspedia": {
+    "title": "Icaruspedia",
+    "description": "Icaruspedia is the Kid Icarus wiki that keeps flying to new heights. After going independent on January 8, 2012, Icaruspedia has worked to become the largest and most trusted independent source of Kid Icarus information. Just like Pit, they\"ll keep on fighting until the job is done.",
+    "logo": "/images/logos/icaruspedia.png",
+    "icon": "/images/icons/icaruspedia.png",
+    "url": "https://www.kidicaruswiki.org/wiki/$1",
+    "mainpage": "Main_Page",
+    "interwiki": "icaruspedia",
+    "forums": "http://www.niwanetwork.org/forums/index.php?board=46.0",
+    "chat": "https://www.kidicaruswiki.org/wiki/Icaruspedia:Skype",
+    "discord": "https://discord.gg/pYghWh3"
+  },
+  "lylatwiki": {
+    "title": "Lylat Wiki",
+    "description": "Out of seemingly nowhere, Lylat Wiki sprung up one day in early 2010. Led by creator, Justin Folvarcik, and project head, Tacopill, the wiki has reached stability since the move to its own domain. The staff of Lylat Wiki are glad to help out the NIWA wikis and are even prouder to join NIWA's ranks as the source for information on the Star Fox series.",
+    "logo": "/images/logos/lylatwiki.png",
+    "icon": "/images/icons/lylatwiki.png",
+    "url": "https://starfoxwiki.info/wiki/$1",
+    "mainpage": "Lylat_Wiki",
+    "interwiki": "lylatwiki",
+    "forums": "http://www.niwanetwork.org/forums/index.php?board=24.0",
+    "twitter": "https://twitter.com/LylatWiki",
+    "facebook": "https://www.facebook.com/LylatWiki/",
+    "discord": "https://discord.gg/pYghWh3"
+  },
+  "niwa": {
+    "title": "Nintendo Independent Wiki Alliance",
+    "description": "We are a network of independent wikis working together since 2010 to bring fans quality coverage of all things Nintendo. Together with our affiliates, we collaborate and support one another in our mission.",
+    "logo": "/images/logos/niwa.png",
+    "icon": "/images/icons/niwa.png",
+    "url": "http://niwanetwork.org/",
+    "mainpage": "Main_Page",
+    "interwiki": "nwiki",
+    "twitter": "https://twitter.com/NIWANetwork",
+    "facebook": "https://facebook.com/NIWANetwork",
+    "discord": "https://discord.gg/59Mq6qB"
+  },
+  "pikifanon": {
+    "title": "Pikmin Fanon",
+    "description": "Pikmin Fanon is a Pikmin wiki for fan stories (fanon). Founded back on November 1, 2008 by Rocky0718 as a part of Wikia, Pikmin Fanon has been independent since September 14, 2010. Check them out for fan created stories based around the Pikmin series.",
+    "logo": "/images/logos/pikifanon.png",
+    "icon": "/images/icons/pikminfanon.png",
+    "url": "https://www.pikminfanon.com/wiki/$1",
+    "mainpage": "Main_Page",
+    "interwiki": "pikminfanon",
+    "forums": "https://www.pikminfanon.com/wiki/Forum:Index",
+    "discord": "https://discord.gg/msMKc3G"
+  },
+  "speedrunwiki": {
+    "title": "Speedrunwiki",
+    "description": "Founded on May 5, 2006, Speedrun Wiki has aimed to be a collaboratively edited, free encyclopedia for all accurate and useful resources for speedrunning.",
+    "logo": "/images/logos/speedrunwiki.png",
+    "icon": "/images/icons/speedrunwiki.png",
+    "url": "https://www.speedrunwiki.com/$1",
+    "mainpage": "Main_Page",
+    "interwiki": "speedrunwiki",
+    "guilded": "https://www.guilded.gg/i/EmzVKl12",
+    "discord": "https://discord.gg/XCazaEVNzT"
+  },
+  "starfywiki": {
+    "title": "Starfy Wiki",
+    "description": "Founded on May 30, 2009, Starfy Wiki's one goal is to become the best source on Nintendo's elusive game series The Legendary Starfy. After gaining independence in 2011 with the help of Tappy and the wiki's original administrative team, the wiki still hopes to achieve its goal and be the best source of Starfy info for all present and future fans.",
+    "logo": "/images/logos/starfywiki.png",
+    "icon": "/images/icons/starfywiki.png",
+    "url": "https://www.starfywiki.org/wiki/$1",
+    "mainpage": "Main_Page",
+    "interwiki": "starfywiki",
+    "forums": "http://www.niwanetwork.org/forums/index.php?board=44.0",
+    "chat": "https://www.starfywiki.org/Starfy_Wiki:IRC",
+    "twitter": "https://twitter.com/StarfyWiki"
+  },
+  "warswiki": {
+    "title": "Wars Wiki",
+    "description": "Created in February 2009, Wars Wiki is a small wiki community with a large heart. Founded by JoJo and Wars Central, Wars Wiki is going strong on one of Nintendo's lesser known franchises. Wars Wiki is keen to contribute to NIWA, and we're proud to be able to support them. With the Wars Central community, including forums, it's definitely worth checking out.",
+    "logo": "/images/logos/warswiki.png",
+    "icon": "/images/icons/warswiki.png",
+    "url": "https://www.warswiki.org/wiki/$1",
+    "mainpage": "Main_Page",
+    "interwiki": "warswiki",
+    "discord": "https://discord.gg/pYghWh3"
+  },
+  "wikibound": {
+    "title": "WikiBound",
+    "description": "Founded in early 2010 by Tacopill, WikiBound strives to create a detailed database on the Mother/EarthBound games, a quaint series only having two games officially released outside of Japan. Help spread the PK Love by editing WikiBound!",
+    "logo": "/images/logos/wikibound.png",
+    "icon": "/images/icons/wikibound.png",
+    "url": "https://www.wikibound.info/wiki/$1",
+    "mainpage": "WikiBound",
+    "interwiki": "wikibound",
+    "forums": "http://www.niwanetwork.org/forums/index.php?board=28.0",
+    "discord": "https://discord.gg/pYghWh3"
+  }
 }

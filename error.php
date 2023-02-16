@@ -1,6 +1,6 @@
 <?php
 $errorid = $_GET['error'];
-$title = 'NIWA - Nintendo Independence Wiki Alliance';
+$title = 'SEIWA - Square Enix Independent Wiki Alliance';
 include('_header.php');
 ?>
 

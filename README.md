@@ -1,5 +1,5 @@
-# niwa-website
-These are the files for the NIWA website (http://niwanetwork.org/), a PHP project. The purpose of this repository is to make it easy for all NIWA members to contribute and update information.
+# seiwa-website
+These are the files for the SEIWA website (https://www.seiwanetwork.org/), a PHP project forked from the NIWA website. The purpose of this repository is to make it easy for all SEIWA members to contribute and update information.
 
 ## Dependencies
 This website requires [Parsedown](https://github.com/erusev/parsedown) to be placed in a file called `_parsedown.php` in the website root.
@@ -22,3 +22,5 @@ To **edit a file**:
 
 To **propose changes** or **report bugs**:
 * Click on the Issues tab, select the green "New issue" button, and propose the change you would like to see.
+
+Last update: 15 Feb 2023
