@@ -51,7 +51,15 @@ $dataHelper = new NiwaDataHelper();
 
   <div id="header">
     <a href="/" title="SEIWA Network">
-      <img src="/images/logo.png" width="325px" alt="SEIWA Network" />
+      <picture>
+        <source
+          srcset="/images/logo-dark.png"
+          width="325px"
+          alt="SEIWA network"
+          media="(prefers-color-scheme: dark)">
+        <img src="/images/logo.png" width="325px" alt= "SEIWA network">
+      </picture>
+      <!--<img src="/images/logo.png" width="325px" alt="SEIWA Network" />-->
     </a>
   </div>
 
