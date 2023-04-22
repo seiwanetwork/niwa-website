@@ -13,16 +13,6 @@
       "twitter": "https://twitter.com/ChronoWiki",
       "youtube": "https://www.youtube.com/user/TheChronoWiki"
     },
-    "dqwiki": {
-      "title": "Dragon Quest Wiki",
-      "description": "Originally founded on Wikia, the Dragon Quest Wiki was largely inactive until FlyingRagnar became an admin in late 2009. The wiki went independent about a year later when it merged with the Dragon Quest Dictionary/Encyclopedia which was run by Zenithian and supported by the Dragon's Den.  The Dragon Quest Wiki aims to be the most complete resource for Dragon Quest information on the web. It continues to grow in the hope that one day the series will be as popular in the rest of the world as it is in Japan.",
-      "logo": "/images/logos/dragonquestwiki.png",
-      "icon": "/images/icons/dragonquestwiki.png",
-      "url": "https://dragon-quest.org/wiki/$1",
-      "mainpage": "Main_Page",
-      "interwiki": "dragonquest",
-      "forums": "https://www.woodus.com/forums/forum/88-dragon-quest-wiki/"
-    },
     "finalfantasywiki": {
       "title": "Final Fantasy Wiki",
       "description": "A new wiki focused on covering Square Enix's flagship franchise, the critically-acclaimed Final Fantasy series. The Final Fantasy Wiki was founded on January 12, 2020 as part of SEIWA and covers all things Final Fantasy and related franchises.",
