@@ -6,7 +6,7 @@
     </div>
     <div id="footer-center">
       <div id="footer-brand">
-        <a href="http://niwanetwork.org">
+        <a href="https://seiwanetwork.org">
           Square Enix Independent Wiki Alliance
         </a>
       </div>
