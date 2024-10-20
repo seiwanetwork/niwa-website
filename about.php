@@ -9,7 +9,7 @@ include('_header.php');
 
 	<p>This isn't a fantasy story. This is the story of the Square Enix Independent Wiki Alliance, or SEIWA. Before its creation, wikis were being built on coporately-owned and run wikifarms. These platforms allowed for editors to create wikis for a variety of content for free. However, as time went by, policies would be created that would be forced upon the child wikis without discussion or feedback, largely for financial gain and often to the degredation of content.</p>
 
-	<p>The Square Enix Independent Wiki Alliance was founded in 2011 with the departure of the Kingdom Hearts Wiki and Chrono Wiki from Wikia, along with the Dragon Quest Wiki. Since then, SEIWA has started two wikis: the Square Enix Wiki in February 2012 and the Final Fantasy Wiki in January 2020.</p>
+	<p>The Square Enix Independent Wiki Alliance was founded in 2011 with the departure of the Kingdom Hearts Wiki and Chrono Wiki from Wikia, along with the Dragon Quest Wiki. Since then, SEIWA has started two wikis: the Square Enix Wiki in February 2012 and the Final Fantasy Wiki in January 2020. In September 2024, SEIWA added a new member, The Wiki Ends With You, based on The World Ends With You series.</p>
 	
 	<h1>Our Mission</h1>
 	<p>SEIWA strives to build and nurture a supportive community of high-quality wikis focused on Square Enix and its publicaions. In the process, we seek to promote long-held values that we believe are the best approach for fostering these kinds of sites:
