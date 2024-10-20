@@ -1,0 +1,17 @@
+RewriteEngine On
+
+# Rewrite specific paths to their respective PHP files
+RewriteRule ^about$ /about.php [L]
+RewriteRule ^affiliates$ /affiliates.php [L]
+RewriteRule ^images$ /images.php [L]
+RewriteRule ^join$ /join.php [L]
+RewriteRule ^legal$ /legal.php [L]
+RewriteRule ^members$ /members.php [L]
+RewriteRule ^policy$ /policy.php [L]
+RewriteRule ^rarticle$ /rarticle.php [L]
+
+# Rewrite the root path to index.php
+RewriteRule ^$ /index.php [L]
+
+# Redirect wiki paths to an external domain with a 302 redirect
+RewriteRule ^wiki/(.*)$ https://wiki.seiwanetwork.org/w/$1 [R=302,L]
