@@ -58,6 +58,17 @@
       "twitter": "https://twitter.com/#!/strategywiki",
       "facebook": "https://www.facebook.com/StrategyWiki",
       "discord": "https://discord.gg/pYghWh3"
+    },
+    "twewywiki": {
+      "title": "The Wiki Ends With You",
+      "description": "The Wiki Ends With You was founded on April 22, 2008 by DMZlol, and covers all things from Square Enix's action RPG series The World Ends With You, including the recent anime series! The wiki became independent on July 27, 2024, and boasts over 2,500 articles!",
+      "logo": "/images/logos/twewywiki.png",
+      "icon": "/images/icons/twewywiki.png",
+      "url": "https://twewy.wiki/w/$1",
+      "mainpage": "The_World_Ends_with_You_Wiki",
+      "interwiki": "twewywiki",
+      "twitter": "https://twitter.com/#!/TWEWY_Wiki",
+      "discord": "https://discord.gg/Ze9bNW4Phn"
     }
   }
 }
