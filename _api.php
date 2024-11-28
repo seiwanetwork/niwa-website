@@ -179,6 +179,9 @@ class NiwaDataHelper
 		if (isset($member->guilded)) {
 			$socials .= $this->generateMemberSocialIcon($member->guilded, "Guilded", "fa-brands fa-guilded");
 		};
+		if (isset($member->bluesky)) {
+			$socials .= $this->generateMemberSocialIcon($member->bluesky, "Bluesky", "fa-brands fa-bluesky");
+		};
 		if (isset($member->twitter)) {
 			$socials .= $this->generateMemberSocialIcon($member->twitter, "Twitter", "fa-brands fa-twitter");
 		};
