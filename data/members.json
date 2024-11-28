@@ -21,6 +21,7 @@
       "url": "https://www.finalfantasywiki.com/wiki/$1",
       "mainpage": "Main_Page",
       "interwiki": "ffwiki",
+      "bluesky" : "https://bsky.app/profile/ffwiki.bsky.social",
       "twitter": "https://twitter.com/theFFWiki",
       "discord": "https://discord.gg/PBDCHYq"
     },
@@ -34,6 +35,7 @@
       "interwiki": "khwiki",
       "discord": "https://discord.com/invite/bavMzKu",
       "facebook": "https://www.facebook.com/khwikinet",
+      "bluesky": "https://bsky.app/profile/khwiki.bsky.social", 
       "twitter": "https://twitter.com/KHWiki",
       "youtube": "https://www.youtube.com/user/KingdomHeartsWiki",
       "chat": "https://www.khwiki.com/KHWiki:Chat"
@@ -55,6 +57,7 @@
       "url": "https://www.strategywiki.org/wiki/$1",
       "mainpage": "Main_Page",
       "interwiki": "strategywiki",
+      "bluesky": "https://bsky.app/profile/strategywiki.org",
       "twitter": "https://twitter.com/#!/strategywiki",
       "facebook": "https://www.facebook.com/StrategyWiki",
       "discord": "https://discord.gg/pYghWh3"
