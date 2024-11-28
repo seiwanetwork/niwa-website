@@ -8,6 +8,7 @@
     "mainpage": "Main_Page",
     "interwiki": "fallout",
     "chat": "https://fallout.wiki/wiki/Special:Chat",
+    "bluesky": "https://bsky.app/profile/fallout.wiki",
     "twitter": "https://twitter.com/thefalloutwiki",
     "discord": "https://discord.gg/falloutwiki"
   },
@@ -20,6 +21,7 @@
     "mainpage": "Main_Page",
     "interwiki": "fireemblem",
     "forums": "http://www.niwanetwork.org/forums/index.php?board=39.0",
+    "bluesky": "https://bsky.app/profile/fireemblemwiki.org",
     "twitter": "https://twitter.com/FireEmblemWiki",
     "facebook": "https://www.facebook.com/fireemblemwiki/",
     "discord": "https://discord.gg/FzRd5P4nyQ"
@@ -46,6 +48,7 @@
     "url": "https://gamingwikinetwork.org/$1",
     "mainpage": " ",
     "interwiki": "gwn",
+    "bluesky": "https://bsky.app/profile/gamingwikinetwork.org",
     "twitter": "https://twitter.com/GamingWikiNet",
     "facebook": "https://facebook.com/GamingWikiNetwork",
     "discord": "https://discord.gg/pCfH7uk9jh"
@@ -92,6 +95,7 @@
     "url": "http://niwanetwork.org/",
     "mainpage": "Main_Page",
     "interwiki": "nwiki",
+    "bluesky": "https://bsky.app/profile/niwanetwork.org",
     "twitter": "https://twitter.com/NIWANetwork",
     "facebook": "https://facebook.com/NIWANetwork",
     "discord": "https://discord.gg/59Mq6qB"
